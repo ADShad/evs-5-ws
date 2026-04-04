@@ -648,6 +648,10 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
     display: block;
     float: none;
   }
+
+  .fixed-nav #wrapper {
+  margin-top: 9rem;
+}
 }
 .menu-visible-lg,
 .menu-visible-md {
