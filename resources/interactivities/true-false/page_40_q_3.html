@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>True or False Activity</title>
+    <link rel="stylesheet" href="css/true-false.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="question">
+        <h3>Write True or False for the following statements.</h3>
+      </div>
+      <div id="statements-container"></div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score-display" id="score-display"></div>
+      <div class="buttons">
+        <button class="btn btn-submit" onclick="checkAnswers()" id="btn-submit">
+          Submit
+        </button>
+        <button
+          class="hide btn btn-submit"
+          style="margin: 0 auto"
+          onclick="showAns()"
+          id="showAns"
+        >
+          Show Answers
+        </button>
+        <button class="btn btn-reset" onclick="resetQuiz()">Reset</button>
+      </div>
+    </div>
+
+    <audio controls id="audio-intro" class="hide">
+      <source src="./audio/main.mp3" type="audio/mp3" />
+    </audio>
+    <audio id="audio-try-again">
+      <source src="../../audio/try-again.mp3" type="audio/mp3" />
+    </audio>
+    <audio id="audio-clap">
+      <source src="../../audio/welldone.mp3" type="audio/mp3" />
+    </audio>
+
+    <script src="js/true-false.js"></script>
+    <script>
+      const statements = [
+        {
+          text: "Shanti's family began their journey from the southernmost tip of India.",
+          answer: "true",
+        },
+        {
+          text: "The Andaman wood pigeon is a common bird found all over India.",
+          answer: "false",
+        },
+        {
+          text: "Coral reefs are made by tiny corals that give shelter to many sea creatures.",
+          answer: "true",
+        },
+        {
+          text: "The Andaman hornbill is found only in the Andaman Islands.",
+          answer: "true",
+        },
+        {
+          text: "People in North Sentinel Island welcome tourists warmly.",
+          answer: "false",
+        },
+        {
+          text: "Tribal communities often depend on forests for food and medicine.",
+          answer: "true",
+        },
+      ];
+
+      window.addEventListener("load", () => initializeQuiz(statements));
+    </script>
+  </body>
+</html>

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Multiple Choice Questions</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="mcq-section">
+        <ol>
+          <li>
+            <h3>Choose the correct option.</h3>
+            <div class="quiz_ques">
+              <ol></ol>
+            </div>
+          </li>
+        </ol>
+      </div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score" style="display: none">
+        Score: <span id="total-score">0</span>/<span id="total-marks">0</span>
+      </div>
+      <div class="buttons">
+        <button type="button" id="btn-submit" class="btn btn-submit">
+          Submit
+        </button>
+        <button type="button" id="btn-reset" class="btn btn-reset">
+          Reset
+        </button>
+      </div>
+      <audio controls id="audio-intro" class="hide">
+        <source src="./audio/main.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-try-again">
+        <source src="../../audio/try-again.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-clap">
+        <source src="../../audio/welldone.mp3" type="audio/mp3" />
+      </audio>
+    </div>
+
+    <script type="text/javascript">
+      const questions = [
+        {
+          title: "What is the colour of the Earth as seen from space?",
+          options: [
+            "Green and yellow",
+            "Blue and white",
+            "Red and brown",
+            "Grey and black",
+          ],
+          answer: 1,
+        },
+        {
+          title:
+            "What helps connect people, ideas and products around the world?",
+          options: [
+            "Fences and walls",
+            "Travel and trade",
+            "Uniform time zones",
+            "Separate countries",
+          ],
+          answer: 1,
+        },
+        {
+          title:
+            "What digital system gives every place in India a unique 10-character code?",
+          options: ["GPS Code", "Home Locator", "DIGIPIN", "Map Key"],
+          answer: 2,
+        },
+        {
+          title:
+            "What did people use to sweeten food before sugar was discovered?",
+          options: ["Salt", "Vinegar", "Pepper", "Honey"],
+          answer: 3,
+        },
+        {
+          title: "What is the meaning of the phrase 'Vasudhaiva Kutumbakam'?",
+          options: [
+            "India is one nation.",
+            "The sky is our roof.",
+            "Nature is powerful.",
+            "The world is one family.",
+          ],
+          answer: 3,
+        },
+      ];
+    </script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

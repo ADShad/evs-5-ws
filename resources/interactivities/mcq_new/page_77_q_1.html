@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Multiple Choice Questions</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="mcq-section">
+        <ol>
+          <li>
+            <h3>Choose the correct option.</h3>
+            <div class="quiz_ques">
+              <ol>
+              </ol>
+            </div>
+          </li>
+        </ol>
+      </div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score" style="display: none">
+        Score: <span id="total-score">0</span>/<span id="total-marks">0</span>
+      </div>
+      <div class="buttons">
+        <button type="button" id="btn-submit" class="btn btn-submit">
+          Submit
+        </button>
+        <button type="button" id="btn-reset" class="btn btn-reset">
+          Reset
+        </button>
+      </div>
+      <audio controls id="audio-intro" class="hide">
+        <source src="./audio/main.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-try-again">
+        <source src="../../audio/try-again.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-clap">
+        <source src="../../audio/welldone.mp3" type="audio/mp3" />
+      </audio>
+    </div>
+
+    <script type="text/javascript">
+      const questions = [{"title": "Which of the following is not a fibre obtained from animals?", "options": ["Silk", "Cotton", "Wool", "Pashmina"]}, {"title": "Which material was commonly used in ancient Indian wall paintings?", "options": ["Cement", "Acrylic", "Natural dyes", "Poster colour"]}, {"title": "What is one of the earliest tools used by humans?", "options": ["Smartphone", "Stone tools", "Compass", "Hammer"]}, {"title": "What causes day and night on Earth?", "options": ["Earth's revolution", "Sun moving around Earth", "Earth's rotation", "Moon's shadow"]}, {"title": "Which of the following travelled from South America to India?", "options": ["Yoga", "Sugarcane", "Chilli", "Marigold"]}];
+    </script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

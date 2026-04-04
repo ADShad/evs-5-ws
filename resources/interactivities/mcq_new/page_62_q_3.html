@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Multiple Choice Questions</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="mcq-section">
+        <ol>
+          <li>
+            <h3>Choose the correct option.</h3>
+            <div class="quiz_ques">
+              <ol></ol>
+            </div>
+          </li>
+        </ol>
+      </div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score" style="display: none">
+        Score: <span id="total-score">0</span>/<span id="total-marks">0</span>
+      </div>
+      <div class="buttons">
+        <button type="button" id="btn-submit" class="btn btn-submit">
+          Submit
+        </button>
+        <button type="button" id="btn-reset" class="btn btn-reset">
+          Reset
+        </button>
+      </div>
+      <audio controls id="audio-intro" class="hide">
+        <source src="./audio/main.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-try-again">
+        <source src="../../audio/try-again.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-clap">
+        <source src="../../audio/welldone.mp3" type="audio/mp3" />
+      </audio>
+    </div>
+
+    <script type="text/javascript">
+      const questions = [
+        {
+          title:
+            "(a) What causes the change between day and night on the Earth?",
+          options: [
+            "The Sun moves around the Earth.",
+            "The Earth rotates on its axis.",
+            "The Moon blocks the Sun.",
+            "Stars appear in the sky.",
+          ],
+          answer: 1,
+        },
+        {
+          title:
+            "(b) Why do farmers in Odisha plant seeds when the koel sings?",
+          options: [
+            "This signals winter.",
+            "It is time to harvest.",
+            "Rains are coming.",
+            "This scares pests away.",
+          ],
+          answer: 2,
+        },
+        {
+          title:
+            "(c) What is the main purpose of the seasons' journal activity?",
+          options: [
+            "To decorate the class",
+            "To record the changes in nature",
+            "To draw birds",
+            "To write the weather report",
+          ],
+          answer: 1,
+        },
+        {
+          title: "(d) Why is a globe and a torch used in class?",
+          options: [
+            "To show continents",
+            "To measure distance",
+            "To show day and night",
+            "To learn gravity",
+          ],
+          answer: 2,
+        },
+        {
+          title: "(e) What do seasons help us understand?",
+          options: [
+            "The Sun moves around the Earth.",
+            "There is no fixed pattern in life.",
+            "Life follows cycles.",
+            "Seasons affect only animals.",
+          ],
+          answer: 2,
+        },
+        {
+          title: "(f) A model of the earth is known as a",
+          options: ["globe", "map", "sketch", "atlas"],
+          answer: 0,
+        },
+        {
+          title: "(g) The sun seems to be rising in the",
+          options: ["south", "north", "west", "east"],
+          answer: 3,
+        },
+      ];
+    </script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

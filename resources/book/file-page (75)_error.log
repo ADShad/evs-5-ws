@@ -1,0 +1,67 @@
+model output was not valid JSON after 2 parse attempt(s): Expecting ',' delimiter: line 56 column 42 (char 2265)
+--- Raw Output ---
+```json
+{
+  "questions": [
+    {
+      "chapter": "",
+      "page_number": 75,
+      "question_number": 7,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Have your parents given you _____ or some product like _____ made from it, for an upset stomach. There are small _____ in curd that join the good microbes in your stomach to help in _____. If the problem is severe, you may have to consult a _____ and take _____."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 75,
+      "question_number": 8,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          { "text": "What is the main source of freshwater on Earth?" },
+          { "text": "Where does the river Godavari end its journey?" },
+          { "text": "What do microbes need to grow on food?" },
+          { "text": "What is the purpose of placing different-coloured bins in schools?" },
+          { "text": "What do people wear on their heads in Rajasthan as part of their traditional dress?" }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 75,
+      "question_number": 9,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          { "text": "What happens when water flows over landforms like slopes or valleys?" },
+          { "text": "Why is the river Godavari important for nearby villages and towns?" },
+          { "text": "How does oil help preserve pickles for longer use?" },
+          { "text": "What are some ways students can save water in school?" },
+          { "text": "How do the languages on a currency note reflect India’s diversity?" }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 75,
+      "question_number": 10,
+      "question_type": "long_answer",
+      "question_data": {
+        "questions": [
+          { "text": "Describe an activity that shows the change of water from liquid to vapour and back." },
+          { "text": "What do tributaries do during the journey of a river like Godavari?" },
+          { "text": "What did Disha learn about food spoilage after opening her forgotten lunchbox?" },
+          { "text": "What actions can a “Waste Warrior” team take to manage waste at school?" },
+          { "text": "How can a child contribute to keeping their school environment green and safe?" }
+        ]
+      }
+    }
+  ]
+}
+```
+------------------------

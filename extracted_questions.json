@@ -1,0 +1,4080 @@
+{
+  "all_questions": [
+    {
+      "chapter": "3",
+      "page_number": 28,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Why do we need food?"
+          },
+          {
+            "text": "What do you mean by a balanced diet?"
+          },
+          {
+            "text": "Why should we wash fruits and vegetables before cutting them?"
+          },
+          {
+            "text": "What are protective foods?"
+          },
+          {
+            "text": "Why do growing children need more proteins?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "3",
+      "page_number": 28,
+      "question_number": 2,
+      "question_type": "long_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Write the importance of water for our body."
+          },
+          {
+            "text": "Write any three healthy eating habits."
+          },
+          {
+            "text": "Differentiate between energy-giving food and body-building food with examples."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "1",
+      "page_number": 3,
+      "question_number": 2,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The Sun's heat causes the water to turn into water vapour.",
+            "answer": ""
+          },
+          {
+            "text": "Water vapour forms clouds, which come down as rain, snow and hail.",
+            "answer": ""
+          },
+          {
+            "text": "The constant circular movement of water in nature is called the water cycle.",
+            "answer": ""
+          },
+          {
+            "text": "The waxy coating on leaves helps water enter the plant easily.",
+            "answer": ""
+          },
+          {
+            "text": "Water exists in different forms as ice, water and vapour.",
+            "answer": ""
+          },
+          {
+            "text": "Aquatic plants and animals do not depend on water for their survival.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 4,
+      "question_number": 3,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "What is groundwater?",
+            "options": [
+              "Water in rivers and lakes",
+              "Water stored in tanks",
+              "Water stored deep underground",
+              "Water falling as rain"
+            ]
+          },
+          {
+            "title": "What helps us draw groundwater for use?",
+            "options": [
+              "Dams",
+              "Hand pumps and wells",
+              "Lakes and ponds",
+              "Buckets and taps"
+            ]
+          },
+          {
+            "title": "What does water vapour form after rising into the sky?",
+            "options": [
+              "Rainbows",
+              "Clouds",
+              "Rivers",
+              "Wind"
+            ]
+          },
+          {
+            "title": "Which of these rivers flows towards the Arabian Sea?",
+            "options": [
+              "Ganga",
+              "Yamuna",
+              "Narmada",
+              "Godavari"
+            ]
+          },
+          {
+            "title": "Why is freshwater important for living beings?",
+            "options": [
+              "It keeps rivers full.",
+              "It is used to make machines.",
+              "It is essential for drinking.",
+              "It helps to ride boats."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 4,
+      "question_number": 4,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Assertion (A): Too much water inside the plant can damage it. Reason (R): The waxy coating on leaves makes them waterproof. Now choose the correct option.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 4,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The underground water stored between layers of soil and rocks."
+          },
+          {
+            "text": "The process by which the Sun's heat changes water into vapour."
+          },
+          {
+            "text": "The circular movement of water in nature."
+          },
+          {
+            "text": "The coating on leaves that makes them waterproof."
+          },
+          {
+            "text": "The form water takes when it cools down and forms droplets."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "1",
+      "page_number": 5,
+      "question_number": 1,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "Evaporation",
+              "Condensation",
+              "Precipitation",
+              "Magnetism"
+            ]
+          },
+          {
+            "options": [
+              "Pond",
+              "River",
+              "Tube well",
+              "Ceiling fan"
+            ]
+          },
+          {
+            "options": [
+              "Water vapour",
+              "Rain",
+              "Dew",
+              "Plastic"
+            ]
+          },
+          {
+            "options": [
+              "Cloud",
+              "Stream",
+              "Lake",
+              "Television"
+            ]
+          },
+          {
+            "options": [
+              "Drinking",
+              "Bathing",
+              "Cooking",
+              "Jumping"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "1",
+      "page_number": 5,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What are the natural sources of freshwater?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 6,
+      "question_number": null,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What happens to some of the rainwater when it rains?"
+          },
+          {
+            "text": "Where does the rainwater go after passing through soil and rocks?"
+          },
+          {
+            "text": "What do we call the water stored deep under the ground?"
+          },
+          {
+            "text": "Name any two ways used to draw groundwater for use."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 6,
+      "question_number": 4,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "words": [
+          "roots",
+          "groundwater",
+          "freshwater",
+          "evaporation",
+          "soil"
+        ],
+        "questions": [
+          {
+            "text": "When it rains, some water is soaked up by the _____."
+          },
+          {
+            "text": "The water that gets stored deep underground is called _____."
+          },
+          {
+            "text": "Plants absorb water from the soil through their _____."
+          },
+          {
+            "text": "Water from rain, rivers, ponds and lakes is called _____."
+          },
+          {
+            "text": "The Sun's heat changes water into vapour in a process called _____."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 6,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "title": "Based on the chapter, write the names of land animals and aquatic animals.",
+        "columns": [
+          "Land Animals",
+          "Aquatic Animals"
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 8,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Why can rainwater not go into the ground easily in cities?",
+            "answer": ""
+          },
+          {
+            "text": "Which type of area helps in groundwater recharge?",
+            "answer": ""
+          },
+          {
+            "text": "Name two ways to help rainwater return underground.",
+            "answer": ""
+          },
+          {
+            "text": "What happens when many cemented surfaces cover the land?",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "1",
+      "page_number": 9,
+      "question_number": 2,
+      "question_type": "match_columns",
+      "question_data": {
+        "left": [
+          "(a) Put ice cubes in a steel glass",
+          "(b) Leave the ice cubes for some time",
+          "(c) Heat water"
+        ],
+        "right": [
+          "(i) Water turns into steam",
+          "(ii) Ice starts melting",
+          "(iii) Water droplets form on the glass"
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 10,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "I am made of ice that stays on top and never melts. (Hint: I cover the top of tall mountains.)"
+          },
+          {
+            "text": "I am frozen ice that moves slowly down the mountain. (Hint: I look like a frozen river.)"
+          },
+          {
+            "text": "I fall from high with a loud sound and splash on the ground. (Hint: Water falls from a cliff.)"
+          },
+          {
+            "text": "I am very tall and covered with snow. People climb me slowly. (Hint: I'm the tallest land on Earth.)"
+          },
+          {
+            "text": "I flow through land and carry water to far places. (Hint: You can see boats float on me.)"
+          },
+          {
+            "text": "I lie between two hills and often have a river. (Hint: I'm like a flat land between mountains.)"
+          },
+          {
+            "text": "I am a hill of sand made by the wind in the desert. (Hint: I'm a little hill of sand.)"
+          },
+          {
+            "text": "I am dry and hot with lots of sand and very little water. (Hint: Camels live in me.)"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 10,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Name one animal that eats small fish."
+          },
+          {
+            "text": "Which animal is eaten by a crocodile in the river food chain?"
+          },
+          {
+            "text": "What may happen if small fish disappear from the river?"
+          },
+          {
+            "text": "Why is each animal in a food chain important?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 10,
+      "question_number": 6,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Imagine you are a fish living in a river. What body part helps you swim, and how does it help you stay safe?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 12,
+      "question_number": 2,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "words": [
+          "delta",
+          "Western Ghats",
+          "perennial",
+          "reservoir",
+          "tributaries"
+        ],
+        "questions": [
+          {
+            "text": "The river Godavari begins its journey in the _____ at Trimbakeshwar in Maharashtra."
+          },
+          {
+            "text": "As the Godavari flows, small streams called _____ join it and make it wider."
+          },
+          {
+            "text": "When the river meets the sea, it forms a _____ where freshwater mixes with salty seawater."
+          },
+          {
+            "text": "A dam blocks the river's flow and stores water in a large water body called a _____."
+          },
+          {
+            "text": "Rivers like the Godavari that flow throughout the year are called _____ rivers."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 12,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The Godavari is called Dakshina Ganga and considered sacred."
+          },
+          {
+            "text": "People gather at Trimbakeshwar to take a holy dip in the Godavari river."
+          },
+          {
+            "text": "The Godavari forms a delta before it meets the sea."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 12,
+      "question_number": 4,
+      "question_type": "true_or_false",
+      "question_data": {
+        "description": "Which of these are correct in terms of saving water? Tick (\u2713) the correct options and cross (\u2717) out the incorrect ones.",
+        "questions": [
+          {
+            "text": "Leave the tap running while brushing your teeth."
+          },
+          {
+            "text": "Reuse clean water from washing vegetables to water plants."
+          },
+          {
+            "text": "Fix leaking taps with the help of adults."
+          },
+          {
+            "text": "Waste drinking water while playing."
+          },
+          {
+            "text": "Remind family and friends to save water."
+          },
+          {
+            "text": "Use a hose to clean the floor every day."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 14,
+      "question_number": 2,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "Maharashtra",
+              "Trimbakeshwar",
+              "Godavari",
+              "Brahmaputra"
+            ]
+          },
+          {
+            "options": [
+              "Fish",
+              "Turtle",
+              "Tree",
+              "Plastic"
+            ]
+          },
+          {
+            "options": [
+              "Drinking",
+              "Farming",
+              "Bathing",
+              "Deforestation"
+            ]
+          },
+          {
+            "options": [
+              "Pipe",
+              "Canal",
+              "Reservoir",
+              "Dustbin"
+            ]
+          },
+          {
+            "options": [
+              "Flood",
+              "Dam",
+              "Delta",
+              "Sky"
+            ]
+          },
+          {
+            "options": [
+              "Wash hands",
+              "Fix leaking taps",
+              "Throw waste in river",
+              "Reuse water"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 14,
+      "question_number": 3,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Where does the river Godavari originate from?",
+            "options": [
+              "Himalayas",
+              "Western Ghats",
+              "Aravalli Hills",
+              "Eastern Ghats"
+            ]
+          },
+          {
+            "title": "What join the river to make it wider and stronger?",
+            "options": [
+              "Lakes",
+              "Dams",
+              "Tributaries",
+              "Roads"
+            ]
+          },
+          {
+            "title": "What is formed when a river meets the sea and splits into small streams?",
+            "options": [
+              "Dam",
+              "Island",
+              "Delta",
+              "Waterfall"
+            ]
+          },
+          {
+            "title": "Which of these helps to reduce river pollution?",
+            "options": [
+              "Throwing plastic",
+              "Using eco-friendly products",
+              "Pouring soap water",
+              "Cutting trees"
+            ]
+          },
+          {
+            "title": "What happens when fertilisers enter the river?",
+            "options": [
+              "Plants overgrow.",
+              "Water is cleaned.",
+              "Fish grow.",
+              "Trees die."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 14,
+      "question_number": 4,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Assertion (A): A dam stores river water in a reservoir. Reason (R): Dams help in stopping rainfall. Now choose the correct option.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "2",
+      "page_number": 15,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Name two major dams built on the Godavari river.",
+            "answer": ""
+          },
+          {
+            "text": "Why have more than 900 dams been built on rivers like the Godavari?",
+            "answer": ""
+          },
+          {
+            "text": "What happens to forests, animals and people when a dam is built?",
+            "answer": ""
+          },
+          {
+            "text": "Why is it important to use water wisely from rivers like the Godavari?",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "2",
+      "page_number": 15,
+      "question_number": 2,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "context": "Read the passage about river pollution and fill the blanks with suitable words from the box: plants, waste, unsafe, fertilisers, fish, green, blanket.",
+        "questions": [
+          {
+            "text": "Sometimes .................... that are used to grow crops get washed down into my water."
+          },
+          {
+            "text": "They make .................... and other organisms grow very fast, until they cover my surface like a ...................., which slowly starts choking all the life inside me."
+          },
+          {
+            "text": "It becomes hard for the .................... to breathe."
+          },
+          {
+            "text": "Also, my water becomes .................... for people to drink."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "2",
+      "page_number": 15,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The place where the Godavari river originates from.",
+            "answer": ""
+          },
+          {
+            "text": "The place where the Godavari river forms a delta.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 16,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Two animals that begin to disappear when the river is polluted."
+          },
+          {
+            "text": "The structure built to store river water and create electricity."
+          },
+          {
+            "text": "One programme mentioned in the chapter that helps clean rivers."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 16,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What happens to the flow of the river during heavy rain?"
+          },
+          {
+            "text": "What kind of damage does flooding cause?"
+          },
+          {
+            "text": "Why do people and animals need to leave their homes during floods?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "3",
+      "page_number": 17,
+      "question_number": 2,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Disha ran to her elder brother _________ when she saw coloured patches on food."
+          },
+          {
+            "text": "The coloured patches on the food were called _________."
+          },
+          {
+            "text": "Microbes are so tiny that we need a _________ to see them."
+          },
+          {
+            "text": "Some microbes help in making _________ and digesting food."
+          },
+          {
+            "text": "The _________ Disha left on the balcony had mould on it."
+          },
+          {
+            "text": "The pickles made by Disha's _________ did not spoil because they were covered in oil."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 18,
+      "question_number": 3,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "What made Disha's uttapam spoil?",
+            "options": [
+              "Dust",
+              "Salt",
+              "Microbes",
+              "Heat"
+            ]
+          },
+          {
+            "title": "What do microbes need to grow?",
+            "options": [
+              "Light, sound and space",
+              "Moisture, air and temperature",
+              "Sugar, salt and oil",
+              "Glass, metal and heat"
+            ]
+          },
+          {
+            "title": "Why does pickling with oil help preserve food?",
+            "options": [
+              "Oil adds taste.",
+              "Oil gives colour.",
+              "Oil keeps air out.",
+              "Oil makes food softer."
+            ]
+          },
+          {
+            "title": "Which food item needs refrigeration because of moisture?",
+            "options": [
+              "Butter",
+              "Ghee",
+              "Salt",
+              "Sugar"
+            ]
+          },
+          {
+            "title": "Which teeth are used for grinding food?",
+            "options": [
+              "Incisors",
+              "Canines",
+              "Molars",
+              "Premolars"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 18,
+      "question_number": 4,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Microbes can be found in soil, air and inside our bodies.",
+            "answer": ""
+          },
+          {
+            "text": "All microbes are harmful and spoil our food.",
+            "answer": ""
+          },
+          {
+            "text": "Chilling food in the fridge slows down the growth of microbes.",
+            "answer": ""
+          },
+          {
+            "text": "Ghee must be kept in the fridge to prevent spoilage.",
+            "answer": ""
+          },
+          {
+            "text": "Chewing food properly helps in digestion by releasing saliva.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 18,
+      "question_number": 5,
+      "question_type": "match_columns",
+      "question_data": {
+        "left": [
+          "(a) Mould",
+          "(b) Oil in pickles",
+          "(c) Fridge",
+          "(d) Saliva",
+          "(e) Sunlight"
+        ],
+        "right": [
+          "(i) Helps in digestion",
+          "(ii) Slows down microbial growth",
+          "(iii) Used to dry chillies in the sun",
+          "(iv) Microbes growing on food",
+          "(v) Blocks air and prevents spoilage"
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 18,
+      "question_number": 6,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What was the final discovery Disha made about microbes in relation to food?",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "3",
+      "page_number": 19,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What fruit did Appa bring home on the rainy day?"
+          },
+          {
+            "text": "Why did Disha feel happy about eating lychees?"
+          },
+          {
+            "text": "What kind of fruit is lychee, according to Appa?"
+          },
+          {
+            "text": "Why is eating seasonal fruits considered good?"
+          },
+          {
+            "text": "How did the family enjoy the seasonal fruits together?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "3",
+      "page_number": 19,
+      "question_number": 2,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "curd",
+              "pickle",
+              "cake",
+              "bread"
+            ]
+          },
+          {
+            "options": [
+              "drying",
+              "salting",
+              "boiling",
+              "freezing"
+            ]
+          },
+          {
+            "options": [
+              "incisor",
+              "canine",
+              "tongue",
+              "molar"
+            ]
+          },
+          {
+            "options": [
+              "microbes",
+              "sunlight",
+              "moisture",
+              "air"
+            ]
+          },
+          {
+            "options": [
+              "spices",
+              "sugar",
+              "salt",
+              "ghee"
+            ]
+          },
+          {
+            "options": [
+              "chewing",
+              "digesting",
+              "preserving",
+              "swallowing"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 20,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Who goes to the vegetable market daily?"
+          },
+          {
+            "text": "What does Thatha buy from the market?"
+          },
+          {
+            "text": "What did Disha observe him doing at the market?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 20,
+      "question_number": 4,
+      "question_type": "long_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Microbes need moisture, air and the right temperature to grow."
+          },
+          {
+            "text": "Pickles are often covered with oil."
+          },
+          {
+            "text": "Ghee does not need refrigeration, but butter does."
+          },
+          {
+            "text": "Chewing food properly helps in digestion."
+          },
+          {
+            "text": "Eating seasonal fruits is beneficial."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 20,
+      "question_number": 5,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Assertion (A): Disha's mother was drying chillies on the balcony. Reason (R): Drying removes moisture from chillies, which prevents the growth of microbes.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "3",
+      "page_number": 21,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Name the front teeth in the mouth.",
+            "answer": ""
+          },
+          {
+            "text": "Identify the sharp, pointed teeth used for tearing food.",
+            "answer": ""
+          },
+          {
+            "text": "Name the teeth located between canines and molars.",
+            "answer": ""
+          },
+          {
+            "text": "Mention the last set of teeth towards the end of the mouth.",
+            "answer": ""
+          },
+          {
+            "text": "Tell the type of teeth found only once on each side between the incisors and premolars.",
+            "answer": ""
+          },
+          {
+            "text": "How many incisors are there in the complete mouth shown?",
+            "answer": ""
+          },
+          {
+            "text": "State the teeth that are flat and broad, used for chewing and grinding food.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 22,
+      "question_number": 2,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Unscramble RDUC (Hint: A food item made with the help of good microbes.)"
+          },
+          {
+            "text": "Unscramble GELSTEVABE (Hint: A group of plant foods rich in fibre and vitamins.)"
+          },
+          {
+            "text": "Unscramble GITENDOSI (Hint: The process of breaking food into simpler forms in the body.)"
+          },
+          {
+            "text": "Unscramble IALSVA (Hint: A liquid in the mouth that starts digestion.)"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 22,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Suggest one way to keep Milk safe and fresh."
+          },
+          {
+            "text": "Suggest one way to keep Pickles safe and fresh."
+          },
+          {
+            "text": "Suggest one way to keep Cooked Rice safe and fresh."
+          },
+          {
+            "text": "Suggest one way to keep Bread safe and fresh."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "4",
+      "page_number": 23,
+      "question_number": 2,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "questions": [
+          {
+            "text": "A _______________ school is one where we manage our waste, save water and plant more trees."
+          },
+          {
+            "text": "Even a small _______________ can waste a lot of water over time."
+          },
+          {
+            "text": "Trees are _______________ to many living beings."
+          },
+          {
+            "text": "_______________ pots are used to cool drinking water."
+          },
+          {
+            "text": "The Jal Shakti Abhiyan is a campaign to _______________ and protect water."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 24,
+      "question_number": 3,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Classrooms with white roofs feel hotter than those with black ones.",
+            "answer": ""
+          },
+          {
+            "text": "A black surface absorbs heat.",
+            "answer": ""
+          },
+          {
+            "text": "School Explorers teams can include Water Watchers and Waste Warriors.",
+            "answer": ""
+          },
+          {
+            "text": "Students discussed how to help their school become cleaner and greener.",
+            "answer": ""
+          },
+          {
+            "text": "People follow all traffic rules near school gates.",
+            "answer": ""
+          },
+          {
+            "text": "Students can help protect water by learning and taking small actions.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 24,
+      "question_number": 4,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "School gate",
+              "Signboard",
+              "Assembly point",
+              "Refrigerator"
+            ]
+          },
+          {
+            "options": [
+              "Leak",
+              "Drip",
+              "Flow",
+              "Blackboard"
+            ]
+          },
+          {
+            "options": [
+              "Butterfly",
+              "Tree",
+              "Clay pot",
+              "Sparrow"
+            ]
+          },
+          {
+            "options": [
+              "Teasing",
+              "Scribbling",
+              "Cleaning",
+              "Pushing"
+            ]
+          },
+          {
+            "options": [
+              "Compost pit",
+              "Litter",
+              "Dustbin",
+              "Traffic light"
+            ]
+          },
+          {
+            "options": [
+              "Cow dung",
+              "Matka",
+              "Black tile",
+              "Green tree"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 24,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Name the activities encouraged by the Jal Shakti Abhiyan to save water.",
+            "answer": ""
+          },
+          {
+            "text": "How can schools help students in water conservation?",
+            "answer": ""
+          },
+          {
+            "text": "What are the students encouraged to learn about?",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "4",
+      "page_number": 25,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What role do recyclers play in waste management?",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 26,
+      "question_number": 2,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Read the statement of Assertion (A) followed by the statement of Reason (R). Assertion (A): Separating waste into wet and dry categories helps manage it better. Reason (R): It reduces waste and keeps surroundings clean. Now choose the correct option.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 26,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The team in school responsible for checking leaking taps and water wastage."
+          },
+          {
+            "text": "The bin colour used for collecting wet waste."
+          },
+          {
+            "text": "The name of Asia's cleanest village."
+          },
+          {
+            "text": "Items that are kept aside and not thrown in bins, but given to traditional recyclers."
+          },
+          {
+            "text": "The group that observes whether lights and fans are used only when needed."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 26,
+      "question_number": 4,
+      "question_type": "long_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Why is it important for schools to plant more trees and care for them?"
+          },
+          {
+            "text": "What does the idea of a 'green school' teach students about responsibility?"
+          },
+          {
+            "text": "How do recyclers contribute to keeping our surroundings clean?"
+          },
+          {
+            "text": "In what ways can a clean and safe school environment help students learn better?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "4",
+      "page_number": 27,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What did Mohit say about traffic rules?",
+            "answer": ""
+          },
+          {
+            "text": "Why do many accidents happen on the roads?",
+            "answer": ""
+          },
+          {
+            "text": "What is important to reduce road accidents?",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "4",
+      "page_number": 27,
+      "question_number": 2,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Waste Warriors: Role",
+            "answer": ""
+          },
+          {
+            "text": "Electricity Savers: Role",
+            "answer": ""
+          },
+          {
+            "text": "Green Guardians: Role",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "4",
+      "page_number": 27,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Write what kind or respectful action you would take in the following situation: Someone is feeling sad.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 28,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "You are waiting in a line.",
+            "answer": ""
+          },
+          {
+            "text": "A classmate needs help carrying books.",
+            "answer": ""
+          },
+          {
+            "text": "The classroom floor has litter.",
+            "answer": ""
+          },
+          {
+            "text": "Someone makes a mistake while speaking.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "4",
+      "page_number": 29,
+      "question_number": 2,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Unscramble 'RTEWA'. Hint: We drink it every day to stay healthy.",
+            "answer": ""
+          },
+          {
+            "text": "Unscramble 'SRETE'. Hint: These grow tall and give us shade and oxygen.",
+            "answer": ""
+          },
+          {
+            "text": "Unscramble 'LEBL'. Hint: It rings to signal the start or end of school time.",
+            "answer": ""
+          },
+          {
+            "text": "Unscramble 'HTELAH'. Hint: A state of being well and free from illness.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 30,
+      "question_number": 4,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "What is one way to save water in school?",
+            "options": [
+              "Leave taps running",
+              "Fix leaking taps",
+              "Wash floors daily",
+              "Use more water for gardens"
+            ]
+          },
+          {
+            "title": "What is the role of a Waste Warrior team?",
+            "options": [
+              "Check windows",
+              "Monitor fans",
+              "Manage dustbins and waste",
+              "Clean shoes"
+            ]
+          },
+          {
+            "title": "Which area in school needs plants to stay cool and fresh?",
+            "options": [
+              "Principal's room",
+              "Library",
+              "School gate",
+              "Playground"
+            ]
+          },
+          {
+            "title": "What is stored in the water tank in a school?",
+            "options": [
+              "Cold drinks",
+              "Ink",
+              "Drinking water",
+              "Paint"
+            ]
+          },
+          {
+            "title": "Why are posters used on school walls?",
+            "options": [
+              "To decorate only",
+              "To hide dirt",
+              "To create awareness",
+              "To block windows"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 30,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Who said this? 'I think people do not follow traffic rules.'"
+          },
+          {
+            "text": "Who said this? 'I want to make my school better like a green school.'"
+          },
+          {
+            "text": "Who said this? 'I love school!..... It is my happy place.'"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "5",
+      "page_number": 31,
+      "question_number": 2,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The green colour in the national flag stands for strength and courage.",
+            "answer": ""
+          },
+          {
+            "text": "Mahatma Gandhi's image appears twice on Indian currency notes.",
+            "answer": ""
+          },
+          {
+            "text": "Republic Day is celebrated every year on 15 August.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 32,
+      "question_number": null,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The Ashoka Chakra is in the centre of the Indian national flag.",
+            "answer": ""
+          },
+          {
+            "text": "The National Emblem of India has three lions standing on a circular platform.",
+            "answer": ""
+          },
+          {
+            "text": "More than a thousand languages are spoken across India.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 32,
+      "question_number": 3,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The ........................ colour in the national flag stands for peace and truth.",
+            "answer": ""
+          },
+          {
+            "text": "The national emblem has ........................ lions.",
+            "answer": ""
+          },
+          {
+            "text": "The image of ........................ appears twice on Indian currency notes.",
+            "answer": ""
+          },
+          {
+            "text": "The instrument used in Carnatic music is ........................",
+            "answer": ""
+          },
+          {
+            "text": "India has more than a ........................ spoken languages.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 32,
+      "question_number": 4,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "Mridangam",
+              "Tabla",
+              "Peacock",
+              "Dholak"
+            ]
+          },
+          {
+            "options": [
+              "Hindi",
+              "Bengali",
+              "Apple",
+              "Tamil"
+            ]
+          },
+          {
+            "options": [
+              "Ashoka Chakra",
+              "National Flag",
+              "Bicycle",
+              "Emblem"
+            ]
+          },
+          {
+            "options": [
+              "Lion",
+              "Tiger",
+              "Peacock",
+              "Mango"
+            ]
+          },
+          {
+            "options": [
+              "Pagri",
+              "Topi",
+              "Helmet",
+              "Sunglasses"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 32,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What symbols or items will you suggest to represent India in the following situations? (a) To show strength and courage",
+            "answer": ""
+          },
+          {
+            "text": "What symbols or items will you suggest to represent India in the following situations? (b) To represent cleanliness",
+            "answer": ""
+          },
+          {
+            "text": "What symbols or items will you suggest to represent India in the following situations? (c) To show peace and truth",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 32,
+      "question_number": 6,
+      "question_type": "long_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Write 2-3 sentences about the National Flag of India.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 34,
+      "question_number": 2,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What do gardens need often to stay healthy?"
+          },
+          {
+            "text": "What makes a forest more diverse than a garden?"
+          },
+          {
+            "text": "How do different plants and animals help a forest?"
+          },
+          {
+            "text": "What does diversity do for our country?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 34,
+      "question_number": 3,
+      "question_type": "match_columns",
+      "question_data": {
+        "left": [
+          "(a) Ashoka Chakra",
+          "(b) Constitution",
+          "(c) MANI app",
+          "(d) Aadhaar",
+          "(e) Idakka"
+        ],
+        "right": [
+          "(i) currency notes",
+          "(ii) duty (dharma)",
+          "(iii) rules",
+          "(iv) drum",
+          "(v) digital ID"
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 34,
+      "question_number": 4,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Assertion (A): India is a shining example of unity in diversity. Reason (R): People in India speak the same language and follow the same traditions. Now choose the correct option.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation of A.",
+              "Both A and R are true, but R is not the correct explanation of A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "5",
+      "page_number": 35,
+      "question_number": 2,
+      "question_type": "match_columns",
+      "question_data": {
+        "left": [
+          "(a) Mahatma Gandhi",
+          "(b) Currency Note",
+          "(c) National Emblem",
+          "(d) Headgear",
+          "(e) Mridangam"
+        ],
+        "right": [
+          "(i) Has languages, symbols and monument pictures",
+          "(ii) Appears twice on the Indian currency note",
+          "(iii) A classical musical instrument",
+          "(iv) Traditional symbol worn on the head",
+          "(v) Found on currency notes and Aadhaar cards"
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 36,
+      "question_number": 3,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "In Himachal Pradesh, people wear a topi.",
+            "answer": ""
+          },
+          {
+            "text": "Rose is the national flower of India.",
+            "answer": ""
+          },
+          {
+            "text": "There are four images of Gandhi ji on currency notes.",
+            "answer": ""
+          },
+          {
+            "text": "More than a thousand languages are spoken in India.",
+            "answer": ""
+          },
+          {
+            "text": "Indian became independent on 26 January 1950.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 36,
+      "question_number": 5,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "word_bank": [
+          "payments",
+          "ayurveda",
+          "norms",
+          "children",
+          "trains",
+          "meditation",
+          "colours",
+          "scientists",
+          "farmers",
+          "yoga"
+        ],
+        "text": "We have a rich history, culture and practices such as _____, _____ and _____. We also have an exciting future to look forward to. _____ are launching rockets, _____ are using technology to grow better crops, and _____ are learning science and technology, along with dance and music. We travel in faster _____, send digital _____ with a click, and connect with friends and family across the country and abroad in seconds. These modern changes are not replacing the old _____ \u2014 they are adding new _____ to it."
+      }
+    },
+    {
+      "chapter": "6",
+      "page_number": 37,
+      "question_number": 2,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The southernmost tip of India is called _______________ Point."
+          },
+          {
+            "text": "Mangrove trees grow in _______________ and salty land."
+          },
+          {
+            "text": "People of _______________ Island live like ancient hunter-gatherers."
+          },
+          {
+            "text": "A forest that is very quiet is called the _______________ Valley."
+          },
+          {
+            "text": "The Andaman _______________ and the Andaman wooden pigeon are two unique birds found only in the islands."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "6",
+      "page_number": 37,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Write the name of the people who said these: The roots of these trees across the streams became strong enough to walk on."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 38,
+      "question_number": 4,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "The Sundarbans forest is known for:",
+            "options": [
+              "Sand dunes",
+              "Mangrove trees",
+              "Bamboo groves",
+              "Coconut farms"
+            ]
+          },
+          {
+            "title": "Mangroves help in:",
+            "options": [
+              "Flooding fields",
+              "Holding soil",
+              "Cutting trees",
+              "Attracting insects"
+            ]
+          },
+          {
+            "title": "The people of North Sentinel Island:",
+            "options": [
+              "Welcome tourists",
+              "Avoid outsiders",
+              "Are scientists",
+              "Live in cities"
+            ]
+          },
+          {
+            "title": "Lion-tailed macaque is found in the:",
+            "options": [
+              "Eastern Ghats",
+              "Sundarbans",
+              "Western Ghats",
+              "Himalayas"
+            ]
+          },
+          {
+            "title": "The Greater Adjutant Stork is also called:",
+            "options": [
+              "Bhut Jolokia",
+              "Hargila",
+              "Root Bird",
+              "Banyan"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 38,
+      "question_number": 5,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "Kanyakumari",
+              "Indira Point",
+              "Sundarbans",
+              "Rajasthan"
+            ]
+          },
+          {
+            "options": [
+              "Coral",
+              "Mangrove",
+              "Mango",
+              "Octopus"
+            ]
+          },
+          {
+            "options": [
+              "Havelock",
+              "Neil",
+              "Nicobar",
+              "Delhi"
+            ]
+          },
+          {
+            "options": [
+              "Dolphin",
+              "Jellyfish",
+              "Crab",
+              "Tiger"
+            ]
+          },
+          {
+            "options": [
+              "Seven Sisters",
+              "Bhut Jolokia",
+              "Hargila",
+              "Coral"
+            ]
+          },
+          {
+            "options": [
+              "Forest",
+              "River",
+              "Mask",
+              "Hill"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "6",
+      "page_number": 39,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What kind of forest is the Sundarbans?",
+            "answer": ""
+          },
+          {
+            "text": "Which river meets the sea at the Sundarbans?",
+            "answer": ""
+          },
+          {
+            "text": "Why are mangrove trees important?",
+            "answer": ""
+          },
+          {
+            "text": "Why is the man rowing the boat wearing a tiger mask?",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 40,
+      "question_number": 2,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Forests"
+          },
+          {
+            "text": "Local guides"
+          },
+          {
+            "text": "Tribal communities"
+          },
+          {
+            "text": "Coral reefs"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 40,
+      "question_number": 3,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Shanti's family began their journey from the southernmost tip of India.",
+            "answer": ""
+          },
+          {
+            "text": "The Andaman wood pigeon is a common bird found all over India.",
+            "answer": ""
+          },
+          {
+            "text": "Coral reefs are made by tiny corals that give shelter to many sea creatures.",
+            "answer": ""
+          },
+          {
+            "text": "The Andaman hornbill is found only in the Andaman Islands.",
+            "answer": ""
+          },
+          {
+            "text": "People in North Sentinel Island welcome tourists warmly.",
+            "answer": ""
+          },
+          {
+            "text": "Tribal communities often depend on forests for food and medicine.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 40,
+      "question_number": 4,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Assertion (A): The Andaman and Nicobar Islands are located in the Arabian Sea. Reason (R): An island is a landform surrounded by water on all sides. Now choose the correct option.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "6",
+      "page_number": 41,
+      "question_number": 2,
+      "question_type": "match_columns",
+      "question_data": {
+        "left": [
+          "(a) Andaman hornbill",
+          "(b) Vijaya Puram",
+          "(c) North Sentinel Island",
+          "(d) Mangrove roots",
+          "(e) Coral reefs"
+        ],
+        "right": [
+          "(i) Capital of Andaman and Nicobar Islands",
+          "(ii) Provide shelter to many sea creatures",
+          "(iii) Found only in Andaman Islands",
+          "(iv) People live like ancient hunter-gatherers",
+          "(v) Help trees breathe and hold soil"
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 42,
+      "question_number": 3,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "box_options": [
+          "festivals",
+          "forests",
+          "Northeast",
+          "crafts",
+          "culture",
+          "nature"
+        ],
+        "questions": [
+          {
+            "text": "The ................. of India is a land full of colours, creativity and life. People here live closely with ................. The region is home to lush ................., flowing rivers, and amazing animals and birds. From weaving and ................. to music, dance and ................. \u2014 every part of life is connected to the hills, forests and wildlife around them. It is a place where ................. and nature grow together."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 42,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "I grow in salty, muddy land. My roots rise up to breathe."
+          },
+          {
+            "text": "I'm made of roots and stretch across streams. People walk on me."
+          },
+          {
+            "text": "I shelter sea creatures and look like colourful stone gardens."
+          },
+          {
+            "text": "I fly only in the Andaman sky. I have a big beak."
+          },
+          {
+            "text": "I was saved by people who loved me. Now I'm a silent forest."
+          },
+          {
+            "text": "I am fiery and red, found in the Northeast, and even scare elephants."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 42,
+      "question_number": 5,
+      "question_type": "long_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Do you care for nature? If yes, then write what you do to protect it."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "6",
+      "page_number": 43,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What are many plants in the Western Ghats used for?"
+          },
+          {
+            "text": "Why do tribal communities and other forest-dwelling people live near the Western Ghats?"
+          },
+          {
+            "text": "What fruits are the students learning about in the survey?"
+          },
+          {
+            "text": "What shows that the Western Ghats is full of plants and animals?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 44,
+      "question_number": 2,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Name any three trees, fruits or plants found in your region. Write their English names and the names in your local language.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 44,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Why is this rainforest called 'Silent Valley'?",
+            "answer": ""
+          },
+          {
+            "text": "What was planned in Silent Valley long ago?",
+            "answer": ""
+          },
+          {
+            "text": "Who joined the 'Save Silent Valley Movement'?",
+            "answer": ""
+          },
+          {
+            "text": "What does the story of Silent Valley teach us?",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "7",
+      "page_number": 45,
+      "question_number": 2,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The food we eat gives us the _____ we need for working.",
+            "answer": ""
+          },
+          {
+            "text": "Food is a source of energy for all _____ things.",
+            "answer": ""
+          },
+          {
+            "text": "Cooking gas is a _____.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 46,
+      "question_number": null,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Electricity can be used for movement, and producing sound, light and _____.",
+            "answer": ""
+          },
+          {
+            "text": "Most of the electricity we use comes from burning fuels like _____.",
+            "answer": ""
+          },
+          {
+            "text": "Our body uses the _____ energy when we skip a meal.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 46,
+      "question_number": 3,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "What helps things move, light up or make a sound?",
+            "options": [
+              "Electricity",
+              "Fuel",
+              "Energy",
+              "Air"
+            ]
+          },
+          {
+            "title": "What is cooking gas an example of?",
+            "options": [
+              "Toy",
+              "Fuel",
+              "Machine",
+              "Electricity"
+            ]
+          },
+          {
+            "title": "Which of these is a clean source of energy?",
+            "options": [
+              "Coal",
+              "Diesel",
+              "Wind",
+              "Petrol"
+            ]
+          },
+          {
+            "title": "What do animals get their energy from?",
+            "options": [
+              "Water",
+              "Air",
+              "Food",
+              "Sleep"
+            ]
+          },
+          {
+            "title": "What is used to generate electricity without pollution?",
+            "options": [
+              "Sunlight",
+              "Wood",
+              "Coal",
+              "Oil"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 46,
+      "question_number": 4,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "Coal",
+              "Wood",
+              "Wind",
+              "Cooking Gas"
+            ]
+          },
+          {
+            "options": [
+              "Sun",
+              "Water",
+              "Wind",
+              "Petrol"
+            ]
+          },
+          {
+            "options": [
+              "Stove",
+              "Fan",
+              "Cooler",
+              "Torch"
+            ]
+          },
+          {
+            "options": [
+              "Fuel",
+              "Electricity",
+              "Energy",
+              "Rock"
+            ]
+          },
+          {
+            "options": [
+              "Sound",
+              "Movement",
+              "Light",
+              "Cloth"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 46,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "How is Sun helpful in our daily life? Write one sentence.",
+            "answer": ""
+          },
+          {
+            "text": "How is Wind helpful in our daily life? Write one sentence.",
+            "answer": ""
+          },
+          {
+            "text": "How is Water helpful in our daily life? Write one sentence.",
+            "answer": ""
+          },
+          {
+            "text": "How is Electricity helpful in our daily life? Write one sentence.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 48,
+      "question_number": 2,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "I shine brightly and give heat and light to Earth."
+          },
+          {
+            "text": "I make a wheel spin when I flow from a tap."
+          },
+          {
+            "text": "I help clothes dry and paper burn without wires."
+          },
+          {
+            "text": "I blow and turn the pinwheel with my invisible force."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 48,
+      "question_number": 3,
+      "question_type": "match_columns",
+      "question_data": {
+        "left": [
+          "A. Fan",
+          "B. Bulb",
+          "C. Heater",
+          "D. TV",
+          "E. Speaker"
+        ],
+        "middle": [
+          "(a) Shows moving pictures",
+          "(b) Produces music or voice",
+          "(c) Brightens a dark room",
+          "(d) Helps cool a room",
+          "(e) Warms up a space"
+        ],
+        "right": [
+          "(i) Heat",
+          "(ii) Sound",
+          "(iii) Light",
+          "(iv) Light and sound",
+          "(v) Movement"
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 48,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What does energy help things around us do?"
+          },
+          {
+            "text": "Why do we feel tired when we are hungry?"
+          },
+          {
+            "text": "How do animals get the energy to move and survive?"
+          },
+          {
+            "text": "Name three activities for which we use fuel in our daily life."
+          },
+          {
+            "text": "What is the main problem with producing electricity by burning coal?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "7",
+      "page_number": 49,
+      "question_number": 2,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Assertion (A): Energy helps things move, light up, make sound and do work. Reason (R): Food, fuel and electricity are all sources of energy. Now, choose the correct option.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 50,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "title": "Who said this?",
+        "questions": [
+          {
+            "text": "Let us jump and run in place."
+          },
+          {
+            "text": "We are able to move because of energy."
+          },
+          {
+            "text": "How do you feel when you are hungry?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 50,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "title": "Read the passage and answer the following questions based on it.",
+        "questions": [
+          {
+            "text": "In which places do people keep their cattle on the ground floor?"
+          },
+          {
+            "text": "Where do the families live in such houses?"
+          },
+          {
+            "text": "How does keeping cattle on the ground floor help during winter?"
+          },
+          {
+            "text": "Why is this method considered clever in cold regions?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 50,
+      "question_number": 5,
+      "question_type": "long_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Write any four safety rules about using electricity. Also, write why each one is important."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "8",
+      "page_number": 51,
+      "question_number": 2,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "Cotton",
+              "Jute",
+              "Nylon",
+              "Silk"
+            ]
+          },
+          {
+            "options": [
+              "Tailorbird",
+              "Baya weaver",
+              "Butterfly",
+              "Spider"
+            ]
+          },
+          {
+            "options": [
+              "Ikat",
+              "Pashmina",
+              "Kanjeevaram",
+              "Rayon"
+            ]
+          },
+          {
+            "options": [
+              "Chikankari",
+              "Gota",
+              "Phulkari",
+              "Polyester"
+            ]
+          },
+          {
+            "options": [
+              "Spin",
+              "Weave",
+              "Stitch",
+              "Drive"
+            ]
+          },
+          {
+            "options": [
+              "Bamboo",
+              "Wool",
+              "Terylene",
+              "Linen"
+            ]
+          },
+          {
+            "options": [
+              "Handloom",
+              "Power loom",
+              "Charkha",
+              "Spinning wheel"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 52,
+      "question_number": 3,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "What is used to make silk thread?",
+            "options": [
+              "Sheep wool",
+              "Cotton seeds",
+              "Silk moth cocoon",
+              "Banana stem"
+            ]
+          },
+          {
+            "title": "What is Khadi?",
+            "options": [
+              "A chemical dye",
+              "A hand-woven fabric",
+              "A plastic fibre",
+              "A type of embroidery"
+            ]
+          },
+          {
+            "title": "Which insect stitches its nest using spider silk?",
+            "options": [
+              "Baya weaver",
+              "Butterfly",
+              "Tailorbird",
+              "Silkworm"
+            ]
+          },
+          {
+            "title": "What tool is used for spinning cotton into thread?",
+            "options": [
+              "Handloom",
+              "Spindle",
+              "Charkha",
+              "Embroidery frame"
+            ]
+          },
+          {
+            "title": "Which fabric is made from goat wool in Ladakh?",
+            "options": [
+              "Bandhan",
+              "Pashmina",
+              "Kantha",
+              "Khadi"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 52,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Which activity became a symbol of the freedom struggle?"
+          },
+          {
+            "text": "How can we become atmanirbhar, according to the passage?"
+          },
+          {
+            "text": "Name the cloth made by spinning thread and weaving it."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 52,
+      "question_number": 5,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Read the statement of Assertion (A) followed by the statement of Reason (R). Assertion (A): The tailorbird stitches its nest using thread. Reason (R): It uses a needle and thread like a tailor. Now, choose the correct option.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "8",
+      "page_number": 53,
+      "question_number": 2,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "help_box": [
+          "natural",
+          "khadi",
+          "synthetic",
+          "beautiful",
+          "loom"
+        ],
+        "questions": [
+          {
+            "text": "The male baya weaver builds _____________ hanging nests from grass."
+          },
+          {
+            "text": "Weaving is done by hand on an instrument called a _____________."
+          },
+          {
+            "text": "The cloth made by spinning and weaving cotton at home is called _____________."
+          },
+          {
+            "text": "_____________ fibres come from natural sources like plants and animals."
+          },
+          {
+            "text": "_____________ fibres like nylon and polyester are made using artificial materials."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 54,
+      "question_number": 4,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The male baya weaver builds beautiful hanging nests from grass.",
+            "answer": ""
+          },
+          {
+            "text": "Spinning is the process of twisting cotton fibres to make thread.",
+            "answer": ""
+          },
+          {
+            "text": "Tailorbirds stitch leaves using plastic threads and glue.",
+            "answer": ""
+          },
+          {
+            "text": "Khadi is the cloth made by spinning thread and weaving it into fabric.",
+            "answer": ""
+          },
+          {
+            "text": "India has some of the best handloom weavers.",
+            "answer": ""
+          },
+          {
+            "text": "Silk thread is gently pulled out from the cocoon of the silk moth.",
+            "answer": ""
+          },
+          {
+            "text": "Synthetic fibres are made using natural materials.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 56,
+      "question_number": 2,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Ask your elders if they have seen or used handloom cloth. If yes, name any two types of handloom fabrics and the places they come from."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 56,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What does the weaverbird use to build its nest?"
+          },
+          {
+            "text": "What do we get by twisting cotton fibres together?"
+          },
+          {
+            "text": "Name any two things that are made using synthetic fibres."
+          },
+          {
+            "text": "What do people often do when old clothes no longer fit?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 56,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Do you recycle old clothes? If yes, then write how you or your family reuse them."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "8",
+      "page_number": 57,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Which stage of the insect is used to get silk thread?"
+          },
+          {
+            "text": "What is done to the cocoon to remove the silk thread?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 58,
+      "question_number": 2,
+      "question_type": "match_columns",
+      "question_data": {
+        "left": [
+          "(a) Fibre",
+          "(b) Spinning",
+          "(c) Stitching",
+          "(d) Fabric",
+          "(e) Exhibition"
+        ],
+        "right": [
+          "(i) Made by using thread on a loom",
+          "(ii) A place to show creative cloth work",
+          "(iii) A soft thread taken from plants or animals",
+          "(iv) Done by twisting fibres into thread",
+          "(v) Used to join pieces or decorate cloth"
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 58,
+      "question_number": 4,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "questions": [
+          {
+            "text": "People in India knew how to ........................ even 4,000 years ago!"
+          },
+          {
+            "text": "Traditional ........................ is done by hand on an instrument called a ........................ ."
+          },
+          {
+            "text": "The cloth made this way is called the ........................ fabric."
+          },
+          {
+            "text": "India has some of the best ........................ weavers, who are experts at their ........................ ."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 60,
+      "question_number": 2,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "Spring",
+              "Summer",
+              "Winter",
+              "Sunlight"
+            ]
+          },
+          {
+            "options": [
+              "Rotation",
+              "Day",
+              "Night",
+              "Festival"
+            ]
+          },
+          {
+            "options": [
+              "Rain",
+              "Koel",
+              "Ant",
+              "Sweater"
+            ]
+          },
+          {
+            "options": [
+              "Pongal",
+              "Diwali",
+              "Holi",
+              "Desert"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 60,
+      "question_number": 3,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "word_bank": [
+          "six",
+          "rotation",
+          "seasons",
+          "journal",
+          "rhythm"
+        ],
+        "questions": [
+          {
+            "text": "The ........................ helps us understand how Earth experiences day and night."
+          },
+          {
+            "text": "Nature follows a repeating ........................ throughout the year."
+          },
+          {
+            "text": "The ........................ of the Earth causes day and night."
+          },
+          {
+            "text": "Saba and Aparna kept a ........................ to observe seasonal changes."
+          },
+          {
+            "text": "In India, we experience ........................ seasons."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 60,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Why do farmers grow different crops in different seasons?"
+          },
+          {
+            "text": "How do seasons shape our lives?"
+          },
+          {
+            "text": "What do seasons teach us about life?"
+          },
+          {
+            "text": "What are you witnessing each day when you step out?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "9",
+      "page_number": 61,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "In which direction does the Sun rise and where does it set?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 62,
+      "question_number": 2,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Assertion (A): Farmers plant seeds when the koel bird sings. Reason (R): The koel's song is a sign that rains are coming in Odisha.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 62,
+      "question_number": 3,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "(a) What causes the change between day and night on the Earth?",
+            "options": [
+              "The Sun moves around the Earth.",
+              "The Earth rotates on its axis.",
+              "The Moon blocks the Sun.",
+              "Stars appear in the sky."
+            ]
+          },
+          {
+            "title": "(b) Why do farmers in Odisha plant seeds when the koel sings?",
+            "options": [
+              "This signals winter.",
+              "It is time to harvest.",
+              "Rains are coming.",
+              "This scares pests away."
+            ]
+          },
+          {
+            "title": "(c) What is the main purpose of the seasons' journal activity?",
+            "options": [
+              "To decorate the class",
+              "To record the changes in nature",
+              "To draw birds",
+              "To write the weather report"
+            ]
+          },
+          {
+            "title": "(d) Why is a globe and a torch used in class?",
+            "options": [
+              "To show continents",
+              "To measure distance",
+              "To show day and night",
+              "To learn gravity"
+            ]
+          },
+          {
+            "title": "(e) What do seasons help us understand?",
+            "options": [
+              "The Sun moves around the Earth.",
+              "There is no fixed pattern in life.",
+              "Life follows cycles.",
+              "Seasons affect only animals."
+            ]
+          },
+          {
+            "title": "(f) A model of the earth is known as a",
+            "options": [
+              "globe",
+              "map",
+              "sketch",
+              "atlas"
+            ]
+          },
+          {
+            "title": "(g) The sun seems to be rising in the",
+            "options": [
+              "south",
+              "north",
+              "west",
+              "east"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "9",
+      "page_number": 63,
+      "question_number": 2,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The Earth moves around the Sun, which causes day and night.",
+            "answer": ""
+          },
+          {
+            "text": "The koel's call in Odisha signals the arrival of the rainy season.",
+            "answer": ""
+          },
+          {
+            "text": "All countries in the world experience the same seasons at the same time.",
+            "answer": ""
+          },
+          {
+            "text": "Many festivals in India are connected to changes in seasons.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 64,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What do seasons bring to our lives?",
+            "answer": ""
+          },
+          {
+            "text": "How do seasons affect plants and animals?",
+            "answer": ""
+          },
+          {
+            "text": "What does the passage say about change?",
+            "answer": ""
+          },
+          {
+            "text": "Name two things that seasons influence in our daily life.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 64,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "title": "Read the clues and fill in the crossword.",
+        "questions": [
+          {
+            "text": "1. A special celebration often linked with seasons",
+            "answer": ""
+          },
+          {
+            "text": "2. A pattern of change in weather and nature seen every few months",
+            "answer": ""
+          },
+          {
+            "text": "3. A smooth, repeating ________________ like the changes in nature",
+            "answer": ""
+          },
+          {
+            "text": "4. Gathering of crops, often followed by festivals like Baisakhi",
+            "answer": ""
+          },
+          {
+            "text": "5. A round model used to show the Earth's surface",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "10",
+      "page_number": 65,
+      "question_number": 2,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Rosy starlings fly from Mongolia and Russia to India during winter.",
+            "answer": ""
+          },
+          {
+            "text": "Yoga has been practised in India for less than 500 years.",
+            "answer": ""
+          },
+          {
+            "text": "Chillies were brought to India by Portuguese travellers from South America.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 66,
+      "question_number": null,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Sugar was first discovered in Brazil and later brought to India.",
+            "answer": ""
+          },
+          {
+            "text": "The marigold flower originally came from Mexico before becoming popular in India.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 66,
+      "question_number": 3,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "What is the colour of the Earth as seen from space?",
+            "options": [
+              "Green and yellow",
+              "Blue and white",
+              "Red and brown",
+              "Grey and black"
+            ]
+          },
+          {
+            "title": "What helps connect people, ideas and products around the world?",
+            "options": [
+              "Fences and walls",
+              "Travel and trade",
+              "Uniform time zones",
+              "Separate countries"
+            ]
+          },
+          {
+            "title": "What digital system gives every place in India a unique 10-character code?",
+            "options": [
+              "GPS Code",
+              "Home Locator",
+              "DIGIPIN",
+              "Map Key"
+            ]
+          },
+          {
+            "title": "What did people use to sweeten food before sugar was discovered?",
+            "options": [
+              "Salt",
+              "Vinegar",
+              "Pepper",
+              "Honey"
+            ]
+          },
+          {
+            "title": "What is the meaning of the phrase 'Vasudhaiva Kutumbakam'?",
+            "options": [
+              "India is one nation.",
+              "The sky is our roof.",
+              "Nature is powerful.",
+              "The world is one family."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 66,
+      "question_number": 4,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "questions": [
+          {
+            "text": "When seen from space, no _____________ or countries are visible on Earth."
+          },
+          {
+            "text": "_____________ gives every place in India a special digital code."
+          },
+          {
+            "text": "_____________ travelled from India to the world, while chillies came from South America."
+          },
+          {
+            "text": "The marigold flower originally came from _____________"
+          },
+          {
+            "text": "Gir, Kankrej and Ongole are breeds of _____________ found in Brazil."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 66,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What does the idea of 'Vasudhaiva Kutumbakam' mean to you? Write one way you can live like the world is one family."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "10",
+      "page_number": 67,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Where was the method of making jaggery from sugarcane juice first discovered?",
+            "answer": ""
+          },
+          {
+            "text": "How did the knowledge of making sugar spread to other parts of the world?",
+            "answer": ""
+          },
+          {
+            "text": "Name three food items from India that travelled to other lands.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 68,
+      "question_number": 2,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "Gir",
+              "Kankrej",
+              "Ongole",
+              "Rosy Starling"
+            ]
+          },
+          {
+            "options": [
+              "Yoga",
+              "Karate",
+              "Asana",
+              "Meditation"
+            ]
+          },
+          {
+            "options": [
+              "Pepper",
+              "Chilli",
+              "Cardamom",
+              "Ginger"
+            ]
+          },
+          {
+            "options": [
+              "Mango",
+              "Banana",
+              "Rice",
+              "Marigold"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 68,
+      "question_number": 3,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "First Indian to reach the International Space Station"
+          },
+          {
+            "text": "Digital version of an address that helps locate places easily"
+          },
+          {
+            "text": "Bird that travels from Russia and Mongolia to India every winter"
+          },
+          {
+            "text": "Ancient Indian practice now celebrated globally on 21st June"
+          },
+          {
+            "text": "Spice brought to India by Portuguese travellers from South America"
+          },
+          {
+            "text": "Country where Indian cow breeds became important for milk production"
+          },
+          {
+            "text": "Flower from Mexico that became part of Indian festivals"
+          },
+          {
+            "text": "Indian contribution that made mathematics easier around the world"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 68,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Why were Indian cows suitable for life in Brazil?"
+          },
+          {
+            "text": "What are the names of the three Indian cow breeds mentioned in the passage?"
+          },
+          {
+            "text": "How did Indian cows become important in Brazil over time?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "10",
+      "page_number": 69,
+      "question_number": 2,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Assertion (A): The Earth looks united and without any borders when seen from space. Reason (R): Borders between countries are drawn using lights that are visible from space. Now, choose the correct option.",
+            "options": [
+              "(a) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+              "(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+              "(c) (A) is true but (R) is false.",
+              "(d) (A) is false but (R) is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 70,
+      "question_number": 3,
+      "question_type": "match_columns",
+      "question_data": {
+        "left": [
+          "(a) DIGIPIN",
+          "(b) Sugar",
+          "(c) Brazilian currency",
+          "(d) International Yoga Day"
+        ],
+        "right": [
+          "(i) Carries symbols of animals that became useful abroad",
+          "(ii) Celebrated as a wellness event in many countries",
+          "(iii) A modern way to make finding homes and schools easier",
+          "(iv) Made from jaggery in India"
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 70,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "context": "Below is a word box containing names of items, places, animals, and ideas from the chapter. Sort each into the correct category as shown below.",
+        "word_box": [
+          "Yoga",
+          "Banana",
+          "Mango",
+          "Marigold",
+          "Brazil",
+          "Russia",
+          "Mongolia",
+          "Indigo",
+          "Ongole",
+          "Kankrej",
+          "Gir",
+          "Sugar",
+          "Chilli",
+          "Tomato",
+          "Ayurveda",
+          "Cow",
+          "Rosy",
+          "Starling",
+          "Mexico",
+          "Zero",
+          "Chess",
+          "Snakes and Ladders",
+          "Vasudhaiva Kutumbakam"
+        ],
+        "sub_questions": [
+          "(a) Indian contributions (things that started in India)",
+          "(b) Things that came to India from other countries",
+          "(c) Countries or places mentioned in the chapter",
+          "(d) Animals or birds referred to in the chapter",
+          "(e) Ideas or practices shared globally"
+        ]
+      }
+    },
+    {
+      "chapter": "10",
+      "page_number": 71,
+      "question_number": 1,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What makes the Earth a truly special place?",
+            "answer": ""
+          },
+          {
+            "text": "Which things belong to the Earth?",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "10",
+      "page_number": 71,
+      "question_number": 2,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "\"The Earth looks completely one, no border is visible from outside.\"",
+            "answer": ""
+          },
+          {
+            "text": "\"Yoga has been practised in India for more than 3,000 years.\"",
+            "answer": ""
+          },
+          {
+            "text": "\"Marigolds are used in so many Indian festivals!\"",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 72,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "(a) I tell my friend in another country about how we celebrate Diwali."
+          },
+          {
+            "text": "(b) I plant trees in my neighbourhood park."
+          },
+          {
+            "text": "(c) I learn a yoga pose from a video made by a teacher in another country."
+          },
+          {
+            "text": "(d) I refuse to waste food because I know others may not have enough."
+          },
+          {
+            "text": "(e) I trace the journey of chillies and tomatoes across the globe."
+          },
+          {
+            "text": "(f) I walk to nearby places instead of taking a car to reduce pollution."
+          },
+          {
+            "text": "(g) I make a poster showing different birds that visit India in winter."
+          },
+          {
+            "text": "(h) I use a globe to find where India and Mexico are located."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 72,
+      "question_number": 5,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "(a) I travelled from South America to India and made Indian food spicy."
+          },
+          {
+            "text": "(b) I am a flower from Mexico, but now I brighten Indian festivals."
+          },
+          {
+            "text": "(c) I am a bird that visits India in winter and helps farmers by eating pests."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 73,
+      "question_number": 1,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "What is the circular movement of water in nature called?",
+            "options": [
+              "Water drain",
+              "Water route",
+              "Water cycle",
+              "Water circle"
+            ]
+          },
+          {
+            "title": "Where does the river Godavari end its journey?",
+            "options": [
+              "River Ganga",
+              "Trimbakeshwar",
+              "Nilgiris",
+              "Coringa Mangrove Forests"
+            ]
+          },
+          {
+            "title": "Why is oil added to pickles?",
+            "options": [
+              "To add taste",
+              "To give smell",
+              "To keep it soft",
+              "To keep out air"
+            ]
+          },
+          {
+            "title": "What is the colour of the bin used for dry waste in schools?",
+            "options": [
+              "Blue",
+              "Green",
+              "Yellow",
+              "Red"
+            ]
+          },
+          {
+            "title": "What does the Ashoka Chakra on the National Flag represent?",
+            "options": [
+              "Nature",
+              "Unity",
+              "Duty",
+              "Peace"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 73,
+      "question_number": 2,
+      "question_type": "fill_in_the_blanks",
+      "question_data": {
+        "word_bank": [
+          "things",
+          "green",
+          "cycle",
+          "microbes",
+          "Trimbakeshwar"
+        ],
+        "questions": [
+          {
+            "text": "Water moves around the Earth in a continuous _____."
+          },
+          {
+            "text": "The river Godavari begins from _____ in Maharashtra."
+          },
+          {
+            "text": "Tiny living _____ can spoil food if not stored properly."
+          },
+          {
+            "text": "Wet waste should be put in the _____ bin."
+          },
+          {
+            "text": "Currency notes show many _____ about India's culture and nature."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 73,
+      "question_number": 3,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Water vapour cools down to form small droplets that fall as rain.",
+            "answer": ""
+          },
+          {
+            "text": "Rivers always flow in straight lines from their source to the sea.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 74,
+      "question_number": null,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Microbes cannot grow without air, moisture and the right temperature.",
+            "answer": ""
+          },
+          {
+            "text": "Throwing wet and dry waste together helps in easy recycling.",
+            "answer": ""
+          },
+          {
+            "text": "The National Flag of India has three colours and a wheel at the centre.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 74,
+      "question_number": 6,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "A natural source of freshwater that flows from mountains and shapes landforms"
+          },
+          {
+            "text": "A wildlife sanctuary located near the river Godavari"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 76,
+      "question_number": 11,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Read the statement of Assertion (A) followed by the statement of Reason (R). Assertion (A): Food stored in airtight containers stays fresh longer. Reason (R): Sunlight kills all the microbes present in the food. Now, choose the correct option.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 76,
+      "question_number": 12,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What is the main goal of the Jal Shakti Abhiyan?"
+          },
+          {
+            "text": "Name two activities this campaign encourages people to do."
+          },
+          {
+            "text": "How can schools help in saving water?"
+          },
+          {
+            "text": "Why is it important to take small actions to protect water?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "6-10",
+      "page_number": 77,
+      "question_number": 1,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Which of the following is not a fibre obtained from animals?",
+            "options": [
+              "Silk",
+              "Cotton",
+              "Wool",
+              "Pashmina"
+            ]
+          },
+          {
+            "title": "Which material was commonly used in ancient Indian wall paintings?",
+            "options": [
+              "Cement",
+              "Acrylic",
+              "Natural dyes",
+              "Poster colour"
+            ]
+          },
+          {
+            "title": "What is one of the earliest tools used by humans?",
+            "options": [
+              "Smartphone",
+              "Stone tools",
+              "Compass",
+              "Hammer"
+            ]
+          },
+          {
+            "title": "What causes day and night on Earth?",
+            "options": [
+              "Earth's revolution",
+              "Sun moving around Earth",
+              "Earth's rotation",
+              "Moon's shadow"
+            ]
+          },
+          {
+            "title": "Which of the following travelled from South America to India?",
+            "options": [
+              "Yoga",
+              "Sugarcane",
+              "Chilli",
+              "Marigold"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "6-10",
+      "page_number": 77,
+      "question_number": 2,
+      "question_type": "true_or_false",
+      "question_data": {
+        "questions": [
+          {
+            "text": "The migration of birds occurs as a result of seasonal changes.",
+            "answer": ""
+          },
+          {
+            "text": "The Earth remains still while the Sun moves around it.",
+            "answer": ""
+          },
+          {
+            "text": "Cotton and jute are types of synthetic fibres.",
+            "answer": ""
+          },
+          {
+            "text": "In summer, we wear woollen clothes to stay warm.",
+            "answer": ""
+          },
+          {
+            "text": "Farmers grow same crops in different seasons.",
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "6-10",
+      "page_number": 77,
+      "question_number": 3,
+      "question_type": "odd_one_out",
+      "question_data": {
+        "questions": [
+          {
+            "options": [
+              "Cotton",
+              "Silk",
+              "Wool",
+              "Plastic"
+            ]
+          },
+          {
+            "options": [
+              "Mango",
+              "Banana",
+              "Potato",
+              "Hammer"
+            ]
+          },
+          {
+            "options": [
+              "Monsoon",
+              "Winter",
+              "Spring",
+              "Sugar"
+            ]
+          },
+          {
+            "options": [
+              "Sun",
+              "Torch",
+              "Candle",
+              "Star"
+            ]
+          },
+          {
+            "options": [
+              "Globe",
+              "Map",
+              "Planet",
+              "Chilli"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 78,
+      "question_number": 4,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "A natural fibre that comes from animals."
+          },
+          {
+            "text": "A bird that helps farmers by eating locusts."
+          },
+          {
+            "text": "The motion of Earth that causes day and night."
+          },
+          {
+            "text": "A flower from Mexico used in Indian festivals."
+          },
+          {
+            "text": "A practice from India now followed globally for health."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 78,
+      "question_number": 5,
+      "question_type": "mcq",
+      "question_data": {
+        "questions": [
+          {
+            "title": "Assertion (A): The Earth rotates to cause day and night. Reason (R): The Sun moves from east to west in the sky.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, but R is false.",
+              "A is false, but R is true."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 78,
+      "question_number": 7,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Which is the largest mangrove forest in the world?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 79,
+      "question_number": null,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Which ancient Indian system guides the placement of rooms, doors and windows to harness natural energy?"
+          },
+          {
+            "text": "What is the special wool called that comes from the Changthangi goat of Ladakh?"
+          },
+          {
+            "text": "Which village in Arunachal Pradesh is known as India's 'First Village of the Sunrise'?"
+          },
+          {
+            "text": "What does 'Vasudhaiva Kutumbakam' mean?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 79,
+      "question_number": 8,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What is the name given to the natural bridges formed by the aerial roots of trees across streams?"
+          },
+          {
+            "text": "Which airport in Kerala became the first in the world to be entirely powered by solar energy?"
+          },
+          {
+            "text": "What do we call the hand-spun, hand-woven cloth symbolising self-sufficiency and India's freedom struggle?"
+          },
+          {
+            "text": "What is the source of energy for all living things?"
+          },
+          {
+            "text": "Which place in Meghalaya is described as the wettest inhabited place on Earth?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 79,
+      "question_number": 9,
+      "question_type": "long_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "How did the 'Save Silent Valley' movement stop the dam project? Why is this victory important for protecting forests?"
+          },
+          {
+            "text": "How does Cochin International Airport use solar power? What benefits does this bring for the environment and local economy?"
+          },
+          {
+            "text": "What are the main steps in making Khadi \u2013 from cotton yarn to finished cloth. Why is Khadi so significant in Indian culture?"
+          },
+          {
+            "text": "Why is Mawsynram called the wettest place on Earth? How does its heavy rainfall affect the daily life of its residents?"
+          },
+          {
+            "text": "How has the DIGIPIN digital address system changed the way we find locations in India? What advantages does it offer?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 80,
+      "question_number": 11,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "What alternative practice do people in our country follow instead of discarding clothes?"
+          },
+          {
+            "text": "What do we usually do when a piece of clothing no longer fits us?"
+          },
+          {
+            "text": "What might an elder make from old clothes?"
+          },
+          {
+            "text": "How are traditional quilts made, according to the passage?"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": "",
+      "page_number": 80,
+      "question_number": 12,
+      "question_type": "short_answer",
+      "question_data": {
+        "questions": [
+          {
+            "text": "Unscramble ADLINS. Hint: Land completely surrounded by water."
+          },
+          {
+            "text": "Unscramble LAROS. Hint: Energy from the Sun."
+          },
+          {
+            "text": "Unscramble MOOL. Hint: Tool used for weaving cloth."
+          },
+          {
+            "text": "Unscramble NMOOSNO. Hint: Seasonal wind bringing heavy rain."
+          },
+          {
+            "text": "Unscramble DERBORS. Hint: Divisions between countries that vanish from space."
+          }
+        ]
+      }
+    }
+  ]
+}

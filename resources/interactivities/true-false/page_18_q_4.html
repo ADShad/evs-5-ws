@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>True or False Activity</title>
+    <link rel="stylesheet" href="css/true-false.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="question">
+        <h3>Write True or False for the following statements.</h3>
+      </div>
+      <div id="statements-container"></div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score-display" id="score-display"></div>
+      <div class="buttons">
+        <button class="btn btn-submit" onclick="checkAnswers()" id="btn-submit">
+          Submit
+        </button>
+        <button
+          class="hide btn btn-submit"
+          style="margin: 0 auto"
+          onclick="showAns()"
+          id="showAns"
+        >
+          Show Answers
+        </button>
+        <button class="btn btn-reset" onclick="resetQuiz()">Reset</button>
+      </div>
+    </div>
+
+    <audio controls id="audio-intro" class="hide">
+      <source src="./audio/main.mp3" type="audio/mp3" />
+    </audio>
+    <audio id="audio-try-again">
+      <source src="../../audio/try-again.mp3" type="audio/mp3" />
+    </audio>
+    <audio id="audio-clap">
+      <source src="../../audio/welldone.mp3" type="audio/mp3" />
+    </audio>
+
+    <script src="js/true-false.js"></script>
+    <script>
+      const statements = [
+        {
+          text: "Microbes can be found in soil, air and inside our bodies.",
+          answer: "true",
+        },
+        { text: "All microbes are harmful and spoil our food.", answer: "false" },
+        {
+          text: "Chilling food in the fridge slows down the growth of microbes.",
+          answer: "true",
+        },
+        {
+          text: "Ghee must be kept in the fridge to prevent spoilage.",
+          answer: "false",
+        },
+        {
+          text: "Chewing food properly helps in digestion by releasing saliva.",
+          answer: "true",
+        },
+      ];
+
+      window.addEventListener("load", () => initializeQuiz(statements));
+    </script>
+  </body>
+</html>

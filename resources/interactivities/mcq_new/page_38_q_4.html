@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Multiple Choice Questions</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="mcq-section">
+        <ol>
+          <li>
+            <h3>Choose the correct option.</h3>
+            <div class="quiz_ques">
+              <ol></ol>
+            </div>
+          </li>
+        </ol>
+      </div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score" style="display: none">
+        Score: <span id="total-score">0</span>/<span id="total-marks">0</span>
+      </div>
+      <div class="buttons">
+        <button type="button" id="btn-submit" class="btn btn-submit">
+          Submit
+        </button>
+        <button type="button" id="btn-reset" class="btn btn-reset">
+          Reset
+        </button>
+      </div>
+      <audio controls id="audio-intro" class="hide">
+        <source src="./audio/main.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-try-again">
+        <source src="../../audio/try-again.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-clap">
+        <source src="../../audio/welldone.mp3" type="audio/mp3" />
+      </audio>
+    </div>
+
+    <script type="text/javascript">
+      const questions = [
+        {
+          title: "The Sundarbans forest is known for:",
+          options: [
+            "Sand dunes",
+            "Mangrove trees",
+            "Bamboo groves",
+            "Coconut farms",
+          ],
+          correct: 1,
+        },
+        {
+          title: "Mangroves help in:",
+          options: [
+            "Flooding fields",
+            "Holding soil",
+            "Cutting trees",
+            "Attracting insects",
+          ],
+          correct: 1,
+        },
+        {
+          title: "The people of North Sentinel Island:",
+          options: [
+            "Welcome tourists",
+            "Avoid outsiders",
+            "Are scientists",
+            "Live in cities",
+          ],
+          correct: 1,
+        },
+        {
+          title: "Lion-tailed macaque is found in the:",
+          options: [
+            "Eastern Ghats",
+            "Sundarbans",
+            "Western Ghats",
+            "Himalayas",
+          ],
+          correct: 2,
+        },
+        {
+          title: "The Greater Adjutant Stork is also called:",
+          options: ["Bhut Jolokia", "Hargila", "Root Bird", "Banyan"],
+          correct: 1,
+        },
+      ];
+    </script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
