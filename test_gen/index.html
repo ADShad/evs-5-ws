@@ -877,31 +877,6 @@
 
     <script type="text/javascript" src="js/main.js"></script>
 
-    <script type="text/javascript">
-      function getPDF() {
-        var html = String($("#previewHTML").html()).replace(
-          /(<img\b[^<>]*[^<>\/])>/gi,
-          "$1 />"
-        );
-        var htmlstr =
-          '<html><head><link rel="stylesheet" type="text/css" href="style.css" /></head><body>' +
-          html +
-          "</body></html>";
-        shah.getPDF(htmlstr);
-      }
-      function printCommand() {
-        //$('#previewHTML').css('overflow-y', 'inherit');
-        $("#css-responsive").attr("href", "");
-        window.print();
-      }
-
-      window.onload = function () {
-        document.getElementById("student-version").checked = false;
-      };
-    </script>
-
-    <!-- <script type="text/javascript">
-      jQuery(document).ready(function ($) {});
-    </script> -->
+    
   </body>
 </html>
