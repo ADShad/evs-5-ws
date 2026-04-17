@@ -144,7 +144,7 @@ $(window).ready(function () {
         },
 
         turned: function (e, page) {
-          $("#page-number").val(page);
+          $("#pageSearch").val(page);
           readerApp.setPageNumBack();
           readerApp.deactivatePaint();
           stopAudio();
@@ -169,7 +169,7 @@ $(window).ready(function () {
         },
 
         turned: function (e, page) {
-          $("#page-number").val(page);
+          $("#pageSearch").val(page);
           readerApp.setPageNumBack();
           readerApp.deactivatePaint();
           stopAudio();
@@ -186,8 +186,13 @@ $(window).ready(function () {
 
 $(window).bind("keydown", function (e) {
   if (e.target && e.target.tagName.toLowerCase() != "input")
-    if (e.keyCode == 37) $("#book").turn("previous");
-    else if (e.keyCode == 39) $("#book").turn("next");
+    if (e.keyCode == 37) {
+      $("#book").turn("previous");
+      readerApp.schedulePageDisplayUpdate();
+    } else if (e.keyCode == 39) {
+      $("#book").turn("next");
+      readerApp.schedulePageDisplayUpdate();
+    }
 });
 
 function resizeBook() {

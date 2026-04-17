@@ -402,10 +402,12 @@ var readerApp = {
 
   flipNext: function () {
     $("#book").turn("next");
+    readerApp.schedulePageDisplayUpdate();
   },
 
   flipPrev: function () {
     $("#book").turn("previous");
+    readerApp.schedulePageDisplayUpdate();
   },
 
   navigatePage: function (e) {
@@ -417,8 +419,10 @@ var readerApp = {
       if (!isNaN(newPage)) {
         if (newPage < eBookConfig.total + 1 && eBookConfig.total > 0) {
           //this.turnPage(newPage);
-          var pageNumNew = parseInt(newPage) + appdb.config.prePages.length;
+          var prePagesLen = (appdb.config.prePages && appdb.config.prePages.length > 0) ? appdb.config.prePages.length : 0;
+          var pageNumNew = parseInt(newPage) + prePagesLen;
           $("#book").turn("page", pageNumNew);
+          readerApp.schedulePageDisplayUpdate();
           $("#pageSearch").blur();
         } else {
           $("#alert-009")
@@ -460,8 +464,10 @@ var readerApp = {
 
   turnPage: function (pageNum) {
     // $("#book").turn("page", pageNum);
-    // Need to add 2 for pre pages
-    $("#book").turn("page", pageNum + 2);
+    // Need to add prePages length
+    var prePagesLen = (appdb.config.prePages && appdb.config.prePages.length > 0) ? appdb.config.prePages.length : 0;
+    $("#book").turn("page", pageNum + prePagesLen);
+    readerApp.schedulePageDisplayUpdate();
   },
 
   invalidPage: function (pageNum) {
@@ -483,8 +489,7 @@ var readerApp = {
       currentPage = currentPage.replace("-0", "");
     }
     setStorage(LAST_PAGE, currentPage.split("-")[0]);
-    // $("#pageSearch").val(currentPage);
-    readerApp.setPage(currentPage);
+    readerApp.updatePageDisplay();
     eBookConfig.current = currentPages[0];
     if (eBookConfig.current == 0) eBookConfig.current = 1;
     for (var i = 0; i < currentPages.length; i++) {
@@ -499,15 +504,83 @@ var readerApp = {
     var pageNums = pageNum.split("-");
     var pageName = [];
     for (var i = 0; i < pageNums.length; i++) {
-      var pg = pageNums[i];
-      if (pg <= appdb.config.prePages.length) {
-        pageName.push(appdb.config.prePages[pg - 1].pageName);
+      var pg = parseInt(pageNums[i], 10);
+      if (isNaN(pg) || pg <= 0) {
+        continue;
+      }
+      if (appdb.config.prePages && appdb.config.prePages.length > 0) {
+        if (pg <= appdb.config.prePages.length) {
+          var prePage = appdb.config.prePages[pg - 1];
+          if (prePage && prePage.pageName) {
+            pageName.push(prePage.pageName);
+          } else {
+            pageName.push(pg);
+          }
+        } else {
+          pageName.push(pg - appdb.config.prePages.length);
+        }
       } else {
-        pageName.push(pg - appdb.config.prePages.length);
+        pageName.push(pg);
       }
     }
 
-    $("#pageSearch").val(pageName.join("-"));
+    if (pageName.length > 0) {
+      $("#pageSearch").val(pageName.join("-"));
+    }
+  },
+
+  updatePageDisplay: function () {
+    if (!$("#book").length || !$("#book").turn) {
+      return;
+    }
+    var currentPages = $("#book").turn("view") || [];
+    if (!currentPages.length) {
+      return;
+    }
+    var prePagesLen =
+      appdb.config.prePages && appdb.config.prePages.length > 0
+        ? appdb.config.prePages.length
+        : 0;
+    var displayPages = [];
+    for (var i = 0; i < currentPages.length; i++) {
+      var pageNum = currentPages[i];
+      if (!pageNum || pageNum <= 0) {
+        continue;
+      }
+      if (prePagesLen > 0) {
+        if (pageNum <= prePagesLen) {
+          var prePage = appdb.config.prePages[pageNum - 1];
+          if (prePage && prePage.pageName) {
+            displayPages.push(prePage.pageName);
+          } else {
+            displayPages.push(pageNum);
+          }
+        } else {
+          displayPages.push(pageNum - prePagesLen);
+        }
+      } else {
+        displayPages.push(pageNum);
+      }
+    }
+
+    if (displayPages.length > 0) {
+      $("#pageSearch").val(displayPages.join("-"));
+    }
+  },
+
+  schedulePageDisplayUpdate: function () {
+    setTimeout(function () {
+      readerApp.updatePageDisplay();
+    }, 80);
+  },
+
+  startPageDisplayWatcher: function () {
+    if (this.pageDisplayTimer) {
+      clearInterval(this.pageDisplayTimer);
+    }
+    this.pageDisplayTimer = setInterval(function () {
+      readerApp.updatePageDisplay();
+    }, 200);
   },
 
   bookmark: {
@@ -1054,6 +1127,7 @@ var readerApp = {
     this.initMusic();
     this.initPrint();
     this.setFooterToolsPreference();
+    this.startPageDisplayWatcher();
 
     /*
 		$(window).resize(function() {
